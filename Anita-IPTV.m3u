@@ -12,5 +12,25 @@ http://mytv.cdn.loc.cc/o12.php?id=mzt
 #EXTINF:-1  tvg-id="tvbnews" tvg-name="無綫新聞" tvg-logo="https://static.wikia.nocookie.net/evchk/images/1/13/TVB_NEWS_LOGO.jpg"  group-title="香港",無綫新聞
 https://t.freetv.fun/live/wu-xian-xin-wen-3-1.m3u8
 
-#EXTINF:-1  tvg-id="HBO" tvg-name="HBO" tvg-logo="https://images.icon-icons.com/2845/PNG/512/hbo_logo_icon_181389.png"  group-title="USA",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?token=Zalogi
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png", HBO East
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png", HBO West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2490.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png", HBO Comedy East
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png", HBO Comedy West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631876.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png", HBO Signature East
+https://cdn.telecloud.tv/CH3265/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png", HBO Signature West
+http://138.59.227.20:8000/play/a06h/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Hbo_latino.png", HBO Latino East
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/648980.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Hbo_latino.png", HBO Latino West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631875.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png", HBO Zone East
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png", HBO Zone West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631877.ts
