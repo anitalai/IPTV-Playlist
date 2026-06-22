@@ -4,41 +4,4 @@
 #EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
-http://113.64.147.40:808/hls/67/index.m3u8
-#EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
-https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
-http://dadiao.akjp.cn:1936/0.m3u8
-#EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
-http://2022.stream-link.org/live/131217689
-#EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
-https://pull-l3-cny.douyincdn.com/live/stream-19882782023022818478.m3u8
-#EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
-http://r.jdshipin.com/62WM7
-#EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
-http://r.jdshipin.com/n90gt
-#EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
-http://r.jdshipin.com/qClQf
-#EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
-http://r.jdshipin.com/qrfbg
-#EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct
-#EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
-#EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-#EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
-http://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
-http://cdn6.163189.xyz/163189/fct4k
-#EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
-http://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
-https://cdn6.163189.xyz/163189/fct4k
-#EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="港澳台",TVB翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-
+http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
