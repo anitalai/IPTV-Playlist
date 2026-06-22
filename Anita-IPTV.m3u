@@ -1,13 +1,16 @@
 #EXTM3U
 #ANITA-IPTV-PLAYLIST
 
-#EXTINF:-1  tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="香港",TVB翡翠台
+#EXTINF:-1  tvg-id="翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="香港",TVB翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1  tvg-name="ViuTV" tvg-logo="https://static.freepnglogo.com/images/all_img/viutv-logo-blue-cd4d.png"  group-title="香港",ViuTV
+#EXTINF:-1  tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-logo="https://static.freepnglogo.com/images/all_img/viutv-logo-blue-cd4d.png"  group-title="香港",ViuTV
 https://t.freetv.fun/live/viutv-2.m3u8
-#EXTINF:-1  tvg-name="TVBPlus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/TVB_Plus_2024_logo.webp/250px-TVB_Plus_2024_logo.webp.png"  group-title="香港",TVBPlus
+#EXTINF:-1  tvg-id="TVB-Plus" tvg-name="TVBPlus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/TVB_Plus_2024_logo.webp/250px-TVB_Plus_2024_logo.webp.png"  group-title="香港",TVBPlus
 https://t.freetv.fun/live/tvb-plus-2.m3u8
-#EXTINF:-1  tvg-name="TVBPearl" tvg-logo="https://post76.hk/data/attachment/forum/201307/07/093021pddk3okkftefl4l4.jpg"  group-title="香港",TVBPearl明珠台
+#EXTINF:-1  tvg-id="Pearl.hk" tvg-name="TVBPearl" tvg-logo="https://post76.hk/data/attachment/forum/201307/07/093021pddk3okkftefl4l4.jpg"  group-title="香港",TVBPearl明珠台
 http://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1  tvg-name="無綫新聞" tvg-logo="https://static.wikia.nocookie.net/evchk/images/1/13/TVB_NEWS_LOGO.jpg"  group-title="香港",無綫新聞
+#EXTINF:-1  tvg-id="tvbnews" tvg-name="無綫新聞" tvg-logo="https://static.wikia.nocookie.net/evchk/images/1/13/TVB_NEWS_LOGO.jpg"  group-title="香港",無綫新聞
 https://t.freetv.fun/live/wu-xian-xin-wen-3-1.m3u8
+
+#EXTINF:-1  tvg-id="翡翠台" tvg-name="HBO" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="香港",TVB翡翠台
+https://live.tv247us.com/tv247/hbo.m3u8
