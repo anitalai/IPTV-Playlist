@@ -60,7 +60,8 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3831
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3840
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Global_Television_Network_2019_logo.svg/500px-Global_Television_Network_2019_logo.svg.png" group-title="North America (West)",Global Vancouver (Canada)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3278
-
+#EXTINF:-1 tvg-name="Citytv" tvg-logo="https://i.imgur.com/BlFNlHz.png" tvg-chno="2" tvg-country="CA" group-title="Canada",Citytv
+https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/tracks-v1a1/mono.m3u8
 
 
 
@@ -81,8 +82,7 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3144
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3143
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/250px-TSN5.svg.png?_=20141202225837" group-title="Sports",TSN 5 (Canada)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/88079
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US: NFL Network HD" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/usasports/usasports-nflnetworkhd.png" group-title="Sports",US: NFL Network HD
-http://vip-max.com:5555/user/pass/34712
+
 
 
 
