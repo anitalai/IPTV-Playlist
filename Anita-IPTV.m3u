@@ -11,7 +11,18 @@ https://t.freetv.fun/live/tvb-plus-2.m3u8
 http://mytv.cdn.loc.cc/o12.php?id=mzt
 #EXTINF:-1  tvg-id="tvbnews" tvg-name="無綫新聞" tvg-logo="https://static.wikia.nocookie.net/evchk/images/1/13/TVB_NEWS_LOGO.jpg"  group-title="香港",無綫新聞
 https://t.freetv.fun/live/wu-xian-xin-wen-3-1.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/NowSportspl.webp" group-title="All Sports 🌎",Now Sports PL 1 🇭🇰⚽️
+https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B21&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQzJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPUtBTkFlZWN4Y3o=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kKFsIHz.png" group-title="All Sports 🌎",Now Sports PL 3 🇭🇰⚽️
+https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B23&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPTV1aUtDR1ROQ0Y=
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsports4.png" group-title="All Sports 🌎",Now Sports 4 🇭🇰
+https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B24&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWVvZVlkanJrVWc=
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsports5.png" group-title="All Sports 🌎",Now Sports 5 🇭🇰
+https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B25&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM5JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWx1ME5PZnRHZ2c=
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsports6.png" group-title="All Sports 🌎",Now Sports 6 🇭🇰
+https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B26&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM4JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdRNHBpNURUeTM=
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsports7.png" group-title="All Sports 🌎",Now Sports 7 🇭🇰
+https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4
 
 #EXTINF:-1 tvg-id="HBOEast.us" tvg-name="HBO East" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png"  group-title="HBO", HBO East
 http://23.237.104.106:8080/USA_HBO/index.m3u8
