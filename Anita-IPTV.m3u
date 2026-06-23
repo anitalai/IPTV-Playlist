@@ -54,6 +54,9 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3836
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3831
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11115_h15_ad.png" group-title="North America (West)",Paramount+ with Showtime (West)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3840
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Global_Television_Network_2019_logo.svg/500px-Global_Television_Network_2019_logo.svg.png" group-title="North America (West)",Global Vancouver (Canada)
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3278
+
 
 
 
