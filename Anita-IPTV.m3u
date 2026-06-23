@@ -4,15 +4,15 @@
 # ==========================================
 # HONG KONG CHANNELS
 # ==========================================
-#EXTINF:-1  tvg-id="TVBJade.hk" tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="香港",TVB翡翠台
+#EXTINF:-1  tvg-id="Jade.hk" tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="香港",TVB翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1  tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-logo="https://static.freepnglogo.com/images/all_img/viutv-logo-blue-cd4d.png"  group-title="香港",ViuTV
 https://t.freetv.fun/live/viutv-2.m3u8
-#EXTINF:-1  tvg-id="TVB.Plus.hk" tvg-name="TVB Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/TVB_Plus_2024_logo.webp/250px-TVB_Plus_2024_logo.webp.png"  group-title="香港",TVBPlus
+#EXTINF:-1  tvg-id="TVB Plus.hk" tvg-name="TVB Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/TVB_Plus_2024_logo.webp/250px-TVB_Plus_2024_logo.webp.png"  group-title="香港",TVBPlus
 https://t.freetv.fun/live/tvb-plus-2.m3u8
-#EXTINF:-1  tvg-id="TVBPearl.hk" tvg-name="TVBPearl" tvg-logo="https://post76.hk/data/attachment/forum/201307/07/093021pddk3okkftefl4l4.jpg"  group-title="香港",TVBPearl明珠台
+#EXTINF:-1  tvg-id="Pearl.hk" tvg-name="TVBPearl" tvg-logo="https://post76.hk/data/attachment/forum/201307/07/093021pddk3okkftefl4l4.jpg"  group-title="香港",TVBPearl明珠台
 http://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1  tvg-id="TVBNews.hk" tvg-name="無綫新聞" tvg-logo="https://static.wikia.nocookie.net/evchk/images/1/13/TVB_NEWS_LOGO.jpg"  group-title="香港",無綫新聞
+#EXTINF:-1  tvg-id="TVB News.hk" tvg-name="無綫新聞" tvg-logo="https://static.wikia.nocookie.net/evchk/images/1/13/TVB_NEWS_LOGO.jpg"  group-title="香港",無綫新聞
 https://t.freetv.fun/live/wu-xian-xin-wen-3-1.m3u8
 
 
@@ -20,13 +20,13 @@ https://t.freetv.fun/live/wu-xian-xin-wen-3-1.m3u8
 # ==========================================
 # HBO CHANNELS
 # ==========================================
-#EXTINF:-1 tvg-id="HBO-East.us" tvg-name="HBO East" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png"  group-title="HBO", HBO East
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO East" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png"  group-title="HBO", HBO East
 http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1 tvg-id="HBO-West.us" tvg-name="HBO West" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png"  group-title="HBO", HBO West
+#EXTINF:-1 tvg-id="HBO.West.us2" tvg-name="HBO West" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png"  group-title="HBO", HBO West
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2490.ts
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png"  group-title="HBO", HBO2
+#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png"  group-title="HBO", HBO2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png"  group-title="HBO", HBO Comedy East
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png"  group-title="HBO", HBO Comedy East
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="hbowest.us" tvg-name="HBO West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png"  group-title="HBO", HBO Comedy West
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631876.ts
