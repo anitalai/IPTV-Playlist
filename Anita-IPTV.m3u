@@ -11,10 +11,7 @@ https://t.freetv.fun/live/tvb-plus-2.m3u8
 http://mytv.cdn.loc.cc/o12.php?id=mzt
 #EXTINF:-1  tvg-id="tvbnews" tvg-name="無綫新聞" tvg-logo="https://static.wikia.nocookie.net/evchk/images/1/13/TVB_NEWS_LOGO.jpg"  group-title="香港",無綫新聞
 https://t.freetv.fun/live/wu-xian-xin-wen-3-1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/翡翠剧集台(北美).png" group-title="港澳台AKTV",翡翠剧集台(北美)
-http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/美亞電影台(HK).png" group-title="港澳台AKTV",美亞電影台(HK)
-http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+
 
 #EXTINF:-1 tvg-id="HBOEast.us" tvg-name="HBO East" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png"  group-title="HBO", HBO East
 http://23.237.104.106:8080/USA_HBO/index.m3u8
