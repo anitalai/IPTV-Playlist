@@ -1,6 +1,9 @@
 #EXTM3U
 #ANITA-IPTV-PLAYLIST
 
+# ==========================================
+# HONG KONG CHANNELS
+# ==========================================
 #EXTINF:-1  tvg-id="Jade.hk" tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="香港",TVB翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1  tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-logo="https://static.freepnglogo.com/images/all_img/viutv-logo-blue-cd4d.png"  group-title="香港",ViuTV
@@ -12,6 +15,9 @@ http://mytv.cdn.loc.cc/o12.php?id=mzt
 #EXTINF:-1  tvg-id="tvbnews" tvg-name="無綫新聞" tvg-logo="https://static.wikia.nocookie.net/evchk/images/1/13/TVB_NEWS_LOGO.jpg"  group-title="香港",無綫新聞
 https://t.freetv.fun/live/wu-xian-xin-wen-3-1.m3u8
 
+# ==========================================
+# HBO CHANNELS
+# ==========================================
 #EXTINF:-1 tvg-id="HBOEast.us" tvg-name="HBO East" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png"  group-title="HBO", HBO East
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBOWest.us" tvg-name="HBO West" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png"  group-title="HBO", HBO West
@@ -26,15 +32,14 @@ http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631876.ts
 https://cdn.telecloud.tv/CH3265/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png"  group-title="HBO", HBO Signature West
 http://138.59.227.20:8000/play/a06h/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Hbo_latino.png"  group-title="HBO", HBO Latino East
-http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/648980.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Hbo_latino.png"  group-title="HBO", HBO Latino West
-http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631875.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png"  group-title="HBO", HBO Zone East
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png"  group-title="HBO", HBO Zone West
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631877.ts
 
+# ==========================================
+# CANADA CHANNELS
+# ==========================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/CBUT_Logo_%28cleaned_up_ver%29.png" group-title="CANADA",CBC Vancouver
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="CANADA",CityNews Vancouver (720p)
@@ -43,12 +48,20 @@ https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V6ZUwUY.png" group-title="CANADA",The Weather Network (720p)
 https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Crave 1 (Canada)
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3184
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Crave 2 (Canada)
+http://bgdc.live:25461/folalawal@/4044225438/190852
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Crave 3 (Canada)
+http://bgdc.live:25461/folalawal@/4044225438/190853
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Crave 4 (Canada)
+http://bgdc.live:25461/folalawal@/4044225438/190854
 
-
+# ==========================================
+# SPORTS CHANNELS
+# ==========================================
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Sportsnet West
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3068
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Yahoo! Sports Network
-https://yahoo2.global.transmit.live/hls/690b7473f01f0691850b8c7d/09f289527d9545b38b36cfe7623c619f/us-east-1/6415665815001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Roku Sports Channel
 https://d3ialx0k0mla2a.cloudfront.net/Roku_Sports_Channel.m3u8
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Fubo Sports Network
@@ -64,6 +77,10 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3143
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",TSN 5 (Canada)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/88079
 
+
+# ==========================================
+# POKER CHANNELS
+# ==========================================
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Poker",PokerGo
 https://s4host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config5/dist/localnow/426/hls/master/playlist.m3u8?ads.cdnhost=s4host4.localnow.api.cms.amdvids.com&ads.playbackid=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n4=content_name&ads.v4=EPG%20%7C%20PokerGo&ads.n21=h&ads.v21=1080&ads.n22=dnt&ads.v22=&ads.n23=channel_brand_id&ads.v23=AMDB012786&ads.n24=app_name&ads.v24=&ads.n25=device_model&ads.v25=&ads.n26=content_provider&ads.v26=pokergo&ads.n27=channel_ext_id&ads.v27=62854474b70b3427203aeabc&ads.n28=gpp_sid&ads.v28=&ads.n29=url&ads.v29=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n30=app_store_url&ads.v30=&ads.n31=ifa_type&ads.v31=&ads.n32=content_custom_3_param&ads.v32=channel&ads.n33=content_custom_2_param&ads.v33=AMDB012786&ads.n34=content_type&ads.v34=channel&ads.n35=content_producer_name&ads.v35=Poker%20Central%20LLC&ads.n36=ua&ads.v36=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n37=device_make&ads.v37=&ads.n38=channel_id&ads.v38=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n39=channel_language&ads.v39=en&ads.n40=channel_corp&ads.v40=Poker%20Central%20LLC&ads.n41=did&ads.v41=&ads.n42=pos&ads.v42=midroll&ads.n43=ip&ads.v43=195.179.200.80&ads.n44=app_version&ads.v44=0.0.0&ads.n45=channel_title&ads.v45=EPG%20%20PokerGo&ads.n46=gpp&ads.v46=&ads.n47=channel_genre&ads.v47=Gaming&ads.n48=w&ads.v48=1920&ads.n49=device_type&ads.v49=&ads.n50=cust_devicename&ads.v50=desktop_web&ads.n51=channel_rating&ads.v51=TV-PG&ads.n52=content_livestream&ads.v52=1&ads.n53=us_privacy&ads.v53=1YNY&ads.n54=app_bundle&ads.v54=&ads.n55=channel_name&ads.v55=EPG%20%20PokerGo&ads.n56=network_name&ads.v56=pokergo&ads.n57=content_custom_1_param&ads.v57=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n58=channel_company_id&ads.v58=AMDP500405
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Poker",WPT (World Poker Tour)
