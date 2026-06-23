@@ -4,15 +4,15 @@
 # ==========================================
 # HONG KONG CHANNELS
 # ==========================================
-#EXTINF:-1  tvg-id="Jade.hk" tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="香港",TVB翡翠台
+#EXTINF:-1  tvg-id="TVB.Jade.hk" tvg-name="TVB翡翠台" tvg-logo="https://images.seeklogo.com/logo-png/14/1/tvb-logo-png_seeklogo-143529.png"  group-title="香港",TVB翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1  tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-logo="https://static.freepnglogo.com/images/all_img/viutv-logo-blue-cd4d.png"  group-title="香港",ViuTV
 https://t.freetv.fun/live/viutv-2.m3u8
-#EXTINF:-1  tvg-id="TVBPlus.hk" tvg-name="TVB Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/TVB_Plus_2024_logo.webp/250px-TVB_Plus_2024_logo.webp.png"  group-title="香港",TVBPlus
+#EXTINF:-1  tvg-id="TVB.Plus.hk" tvg-name="TVB Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/TVB_Plus_2024_logo.webp/250px-TVB_Plus_2024_logo.webp.png"  group-title="香港",TVBPlus
 https://t.freetv.fun/live/tvb-plus-2.m3u8
-#EXTINF:-1  tvg-id="TVBPearl.hk" tvg-name="TVBPearl" tvg-logo="https://post76.hk/data/attachment/forum/201307/07/093021pddk3okkftefl4l4.jpg"  group-title="香港",TVBPearl明珠台
+#EXTINF:-1  tvg-id="TVB.Pearl.hk" tvg-name="TVBPearl" tvg-logo="https://post76.hk/data/attachment/forum/201307/07/093021pddk3okkftefl4l4.jpg"  group-title="香港",TVBPearl明珠台
 http://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1  tvg-id="TVBNewsChannel.hk" tvg-name="無綫新聞" tvg-logo="https://static.wikia.nocookie.net/evchk/images/1/13/TVB_NEWS_LOGO.jpg"  group-title="香港",無綫新聞
+#EXTINF:-1  tvg-id="TVB.News.hk" tvg-name="無綫新聞" tvg-logo="https://static.wikia.nocookie.net/evchk/images/1/13/TVB_NEWS_LOGO.jpg"  group-title="香港",無綫新聞
 https://t.freetv.fun/live/wu-xian-xin-wen-3-1.m3u8
 
 
@@ -66,19 +66,19 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3278
 # ==========================================
 # SPORTS CHANNELS
 # ==========================================
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="Sportsnet West" tvg-logo="https://brucetelecom.com/wp-content/uploads/2019/12/SportsNet-West.png" group-title="Sports",Sportsnet West
+#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-name="Sportsnet West" tvg-logo="https://brucetelecom.com/wp-content/uploads/2019/12/SportsNet-West.png" group-title="Sports",Sportsnet West
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3068
 #EXTINF:-1 tvg-id="fubosports.us" tvg-name="Fubo Sports Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Fubo_Sports_Network_%282023%29.png/revision/latest?cb=20251002012344" group-title="Sports",Fubo Sports Network
 http://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/fsn/master.m3u8
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://images.seeklogo.com/logo-png/31/1/tsn-1-logo-png_seeklogo-314693.png" group-title="Sports",TSN 1 (Canada)
+#EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN 1" tvg-logo="https://images.seeklogo.com/logo-png/31/1/tsn-1-logo-png_seeklogo-314693.png" group-title="Sports",TSN 1 (Canada)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3146
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2" tvg-logo="https://images.seeklogo.com/logo-png/54/1/tsn2-logo-png_seeklogo-548306.png" group-title="Sports",TSN 2 (Canada)
+#EXTINF:-1 tvg-id="TSN.2.ca2" tvg-name="TSN 2" tvg-logo="https://images.seeklogo.com/logo-png/54/1/tsn2-logo-png_seeklogo-548306.png" group-title="Sports",TSN 2 (Canada)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3145
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/250px-TSN3.svg.png?_=20141202225835" group-title="Sports",TSN 3 (Canada)
+#EXTINF:-1 tvg-id="TSN.3.ca2" tvg-name="TSN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/250px-TSN3.svg.png?_=20141202225835" group-title="Sports",TSN 3 (Canada)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3144
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN4_2014.svg/revision/latest?cb=20220218183358" group-title="Sports",TSN 4 (Canada)
+#EXTINF:-1 tvg-id="TSN.4.ca2" tvg-name="TSN 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN4_2014.svg/revision/latest?cb=20220218183358" group-title="Sports",TSN 4 (Canada)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3143
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/250px-TSN5.svg.png?_=20141202225837" group-title="Sports",TSN 5 (Canada)
+#EXTINF:-1 tvg-id="TSN.5.ca2" tvg-name="TSN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/250px-TSN5.svg.png?_=20141202225837" group-title="Sports",TSN 5 (Canada)
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/88079
 
 
@@ -87,7 +87,7 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/88079
 # ==========================================
 # POKER CHANNELS
 # ==========================================
-#EXTINF:-1 tvg-id="pokergo.us" tvg-name="PokerGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/PokerGO_logo.png?_=20210305000329" group-title="Poker",PokerGo
+#EXTINF:-1 tvg-id="plex.tv.PokerGO.plex" tvg-name="PokerGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/PokerGO_logo.png?_=20210305000329" group-title="Poker",PokerGo
 https://s4host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config5/dist/localnow/426/hls/master/playlist.m3u8?ads.cdnhost=s4host4.localnow.api.cms.amdvids.com&ads.playbackid=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n4=content_name&ads.v4=EPG%20%7C%20PokerGo&ads.n21=h&ads.v21=1080&ads.n22=dnt&ads.v22=&ads.n23=channel_brand_id&ads.v23=AMDB012786&ads.n24=app_name&ads.v24=&ads.n25=device_model&ads.v25=&ads.n26=content_provider&ads.v26=pokergo&ads.n27=channel_ext_id&ads.v27=62854474b70b3427203aeabc&ads.n28=gpp_sid&ads.v28=&ads.n29=url&ads.v29=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n30=app_store_url&ads.v30=&ads.n31=ifa_type&ads.v31=&ads.n32=content_custom_3_param&ads.v32=channel&ads.n33=content_custom_2_param&ads.v33=AMDB012786&ads.n34=content_type&ads.v34=channel&ads.n35=content_producer_name&ads.v35=Poker%20Central%20LLC&ads.n36=ua&ads.v36=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n37=device_make&ads.v37=&ads.n38=channel_id&ads.v38=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n39=channel_language&ads.v39=en&ads.n40=channel_corp&ads.v40=Poker%20Central%20LLC&ads.n41=did&ads.v41=&ads.n42=pos&ads.v42=midroll&ads.n43=ip&ads.v43=195.179.200.80&ads.n44=app_version&ads.v44=0.0.0&ads.n45=channel_title&ads.v45=EPG%20%20PokerGo&ads.n46=gpp&ads.v46=&ads.n47=channel_genre&ads.v47=Gaming&ads.n48=w&ads.v48=1920&ads.n49=device_type&ads.v49=&ads.n50=cust_devicename&ads.v50=desktop_web&ads.n51=channel_rating&ads.v51=TV-PG&ads.n52=content_livestream&ads.v52=1&ads.n53=us_privacy&ads.v53=1YNY&ads.n54=app_bundle&ads.v54=&ads.n55=channel_name&ads.v55=EPG%20%20PokerGo&ads.n56=network_name&ads.v56=pokergo&ads.n57=content_custom_1_param&ads.v57=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n58=channel_company_id&ads.v58=AMDP500405
 #EXTINF:-1 tvg-id="worldpokertour.us" tvg-name="World Poker Tour" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/World_Poker_Tour_2022_Logo.png" group-title="Poker",WPT (World Poker Tour)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-worldpokertour-wpt/playlist.m3u8
